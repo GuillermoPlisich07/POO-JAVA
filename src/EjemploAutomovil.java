@@ -2,10 +2,10 @@ public class EjemploAutomovil {
     public static void main(String[] args) {
 
         Automovil auto = new Automovil();
-        auto.fabricante = "Subaru";
-        auto.color = "Blanco";
-        auto.cilindrada = 2.0;
-        auto.modelo = "Impreza";
+        auto.setFabricante("Subaru");
+        auto.setColor("Blanco");
+        auto.setCilindrada(2.0);
+        auto.setModelo("Impreza");
 
 
 //        System.out.println("auto.fabricante = " + auto.fabricante);
