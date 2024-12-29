@@ -4,7 +4,7 @@ public enum TipoAutomovil {
     HATCHBACK("Hatchback","Auto compacto",4),
     PICKUP("Pickup","Camioneta", 4),
     COUPE("Coupe","Auto pequeno", 2),
-    CONVERTUBLE("Convertible","Auto deportivo", 2),
+    CONVERTIBLE("Convertible","Auto deportivo", 2),
     FURGON("Furgon","Auto utilitario", 4);
 
     private final String nombre;
