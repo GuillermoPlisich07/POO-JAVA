@@ -1,3 +1,5 @@
+package org.gplisich.Automovil;
+
 public enum TipoAutomovil {
     SEDAN("Sedan", "Auto mediano", 4),
     STATION_WAGON("Station Wagon","Auto grande", 4),

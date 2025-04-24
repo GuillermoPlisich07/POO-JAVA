@@ -1,4 +1,4 @@
-import javax.lang.model.SourceVersion;
+package org.gplisich.Automovil;
 
 public class Automovil {
 
@@ -185,7 +185,7 @@ public class Automovil {
 
     @Override
     public String toString() {
-        return "Automovil{" +
+        return "org.gplisich.automovilEjemplo.Automovil{" +
                 "fabricante='" + fabricante + '\'' +
                 ", modelo='" + modelo + '\'' +
                 ", color='" + color + '\'' +

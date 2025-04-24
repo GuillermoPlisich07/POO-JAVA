@@ -1,3 +1,5 @@
+package org.gplisich.Automovil;
+
 public class Motor {
     private double cilindrada;
     private TipoMotor tipo;

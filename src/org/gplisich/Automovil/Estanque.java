@@ -1,3 +1,5 @@
+package org.gplisich.Automovil;
+
 public class Estanque {
     private int capacidad;
 

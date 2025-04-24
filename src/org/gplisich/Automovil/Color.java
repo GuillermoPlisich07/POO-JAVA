@@ -1,3 +1,5 @@
+package org.gplisich.Automovil;
+
 public enum Color {
     ROJO,
     AMARILLO,
